@@ -1,1 +1,1 @@
-Excercie 2 in the course: "introduction to sysyems programing" 234124.
+Excercie 2 in the course: "introduction to systems programing" 234124.
